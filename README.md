@@ -1,7 +1,7 @@
 # Car-Game-From-Scratch
 
 TODO
-- handle level, score, lives and distance
+- do calculations on level, score, lives and distance
 - add background and effects
 - save and read score with json
 - add counter 321
