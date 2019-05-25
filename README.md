@@ -7,3 +7,5 @@ TODO
 - add counter 321
 - add sounds
 - add animations on menu and handle other options
+- replace car image
+- add different colors for enemies
