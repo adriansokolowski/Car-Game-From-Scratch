@@ -1,6 +1,6 @@
 # Car-Game-From-Scratch
 
-TODO
+TODO:
 - do calculations on level, score, lives and distance
 - add background and effects
 - save and read score with json
