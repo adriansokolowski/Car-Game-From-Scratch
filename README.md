@@ -1,5 +1,7 @@
 # Car-Game-From-Scratch
 
+Check [DEMO](https://adriansokolowski.github.io/Car-Game-From-Scratch/)
+
 TODO:
 - do calculations on level, score, lives and distance
 - add background and effects
