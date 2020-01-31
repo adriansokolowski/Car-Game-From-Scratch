@@ -1,6 +1,6 @@
 # Car-Game-From-Scratch
 
-Check [DEMO](https://adriansokolowski.github.io/Car-Game-From-Scratch/)
+Check [DEMO](https://adriansokolowski.github.io/RaceScratch/)
 
 TODO:
 - do calculations on level, score, lives and distance
