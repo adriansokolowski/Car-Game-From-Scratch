@@ -6,6 +6,9 @@ const finalScore = document.querySelector('#finalScore');
 const scoreLabel = document.querySelector('#scoreLabel');
 const livesLabel = document.querySelector('#livesLabel');
 
+var audio = new Audio('assets/music.mp3');
+
+
 let player = {
     speed: 0.5, score: 0, lives: 333
 };
@@ -33,6 +36,7 @@ function pressOff(e) {
 }
 
 function start() {
+    audio.play();
     startScreen.classList.add("hide");
     gameArea.classList.remove("hide");
     player.start = true;
@@ -133,6 +137,6 @@ function endGame() {
         player.start = false;
         // gameArea.classList.add("hide");
         // finalScore.classList.remove("hide");
-
+        audio.pause();
     }
 }
